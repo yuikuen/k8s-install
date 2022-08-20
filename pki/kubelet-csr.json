@@ -7,8 +7,8 @@
   "names": [
     {
       "C": "CN",
-      "L": "DG",
-      "ST": "DG",
+      "L": "DongGuan",
+      "ST": "DongGuan",
       "O": "system:nodes",
       "OU": "Kubernetes-manual"
     }
